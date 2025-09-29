@@ -115,24 +115,9 @@ docker-compose logs -f
 
 Watch the Travel Advisory Agent in action:
 
-<div align="center">
-  <a href="https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4">
-    <img src="https://img.shields.io/badge/🎬_Watch_Demo_Video-FF6B6B?style=for-the-badge&logo=video&logoColor=white" alt="Watch Demo Video" />
-  </a>
-</div>
+https://github.com/tatra-labs/Travel-Adivisor-Keyveve/assets/your-user-id/video.mp4
 
-<div align="center">
-  <a href="https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4">
-    <img src="https://img.shields.io/badge/📱_Mobile_Friendly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile Friendly" />
-  </a>
-  <a href="https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4">
-    <img src="https://img.shields.io/badge/⏱️_Duration_~5min-00C7BE?style=for-the-badge&logo=clock&logoColor=white" alt="Duration" />
-  </a>
-</div>
-
-**📺 [🎥 Click here to watch the full demo video](https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4)**
-
-*The video demonstrates the complete user journey from initial travel planning to budget refinements, showing the AI's ability to maintain context and provide consistent, accurate cost information.*
+_The video demonstrates the complete user journey from initial travel planning to budget refinements, showing the AI's ability to maintain context and provide consistent, accurate cost information._
 
 ### 🖼️ Screenshots
 
