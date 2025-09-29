@@ -115,7 +115,7 @@ docker-compose logs -f
 
 Watch the Travel Advisory Agent in action:
 
-<video src="public/video.mp4" controls></video>
+<video src="https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4" controls></video>
 
 _The video demonstrates the complete user journey from initial travel planning to budget refinements, showing the AI's ability to maintain context and provide consistent, accurate cost information._
 
