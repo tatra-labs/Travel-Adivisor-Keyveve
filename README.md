@@ -114,7 +114,7 @@ docker-compose logs -f
 ### 📹 Live Demo Video
 
 Watch the Travel Advisory Agent in action:
-[
+
 https://github.com/user-attachments/assets/bc28c898-59d1-4d14-9f27-6beb1cd1d6b5
 
 _The video demonstrates the complete user journey from initial travel planning to budget refinements, showing the AI's ability to maintain context and provide consistent, accurate cost information._
