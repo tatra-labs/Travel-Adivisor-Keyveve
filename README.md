@@ -115,20 +115,20 @@ docker-compose logs -f
 
 Watch the Travel Advisory Agent in action:
 
-https://github.com/yourusername/travel-advisory-agent/assets/your-user-id/demo-video.mp4
+https://github.com/tatra-labs/Travel-Adivisor-Keyveve/raw/main/public/video.mp4
 
 _[Click the play button above to see the full demo]_
 
 ### 🖼️ Screenshots
 
 <div align="center">
-  <img src="public/demo-screenshot-1.png" alt="Travel Planner Interface" width="800"/>
-  <p><em>AI-powered travel planning interface with real-time cost optimization</em></p>
+  <img src="public/docker.png" alt="Docker Setup" width="800"/>
+  <p><em>Docker containerization setup for easy deployment</em></p>
 </div>
 
 <div align="center">
-  <img src="public/demo-screenshot-2.png" alt="Budget Breakdown" width="800"/>
-  <p><em>Detailed budget breakdown with dynamic cost parsing</em></p>
+  <img src="public/uploading-new-document.png" alt="Knowledge Base Upload" width="800"/>
+  <p><em>Knowledge base document upload interface</em></p>
 </div>
 
 ### Sample Chat Flow

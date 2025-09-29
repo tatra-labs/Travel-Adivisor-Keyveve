@@ -111,7 +111,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+# public - Allow public folder for demo assets
 
 # Storybook build outputs
 .out
