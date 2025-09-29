@@ -34,6 +34,20 @@
 - **Caching**: Redis for performance optimization
 - **Containerized**: Full Docker support for easy deployment
 
+## 🎯 Features in Action
+
+### ✨ What Makes This Special
+
+- **🧠 Smart Context Memory**: The AI remembers your previous requests and maintains destination context
+- **💰 Real-time Cost Optimization**: Dynamic budget adjustments with live cost parsing
+- **🌍 Multi-Destination Intelligence**: Supports Kyoto, Tokyo, Paris, Barcelona, Orlando, and more
+- **🔄 Seamless Refinements**: Click "Make it cheaper" and watch the AI optimize your existing plan
+- **📊 Consistent Cost Display**: Budget breakdown and daily itinerary costs always match
+
+### 🎬 See It Live
+
+The demo video above shows the complete user journey from initial travel planning to budget refinements, demonstrating the AI's ability to maintain context and provide consistent, accurate cost information.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -45,7 +59,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/travel-advisory-agent.git
+git clone https://github.com/tatra-labs/Travel-Adivisor-Keyveve.git
 cd travel-advisory-agent
 ```
 
@@ -96,6 +110,26 @@ docker-compose logs -f
 - **User**: `user@example.com` / `user123`
 
 ## 🎬 Demo
+
+### 📹 Live Demo Video
+
+Watch the Travel Advisory Agent in action:
+
+https://github.com/yourusername/travel-advisory-agent/assets/your-user-id/demo-video.mp4
+
+_[Click the play button above to see the full demo]_
+
+### 🖼️ Screenshots
+
+<div align="center">
+  <img src="public/demo-screenshot-1.png" alt="Travel Planner Interface" width="800"/>
+  <p><em>AI-powered travel planning interface with real-time cost optimization</em></p>
+</div>
+
+<div align="center">
+  <img src="public/demo-screenshot-2.png" alt="Budget Breakdown" width="800"/>
+  <p><em>Detailed budget breakdown with dynamic cost parsing</em></p>
+</div>
 
 ### Sample Chat Flow
 
@@ -259,7 +293,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/travel-advisory-agent.git
+git clone https://github.com/tatra-labs/Travel-Adivisor-Keyveve.git
 cd travel-advisory-agent
 
 # Install development dependencies
@@ -312,6 +346,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for travelers worldwide**
 
-[⭐ Star this repo](https://github.com/yourusername/travel-advisory-agent) | [🐛 Report Bug](https://github.com/yourusername/travel-advisory-agent/issues) | [💡 Request Feature](https://github.com/yourusername/travel-advisory-agent/issues)
+[⭐ Star this repo](https://github.com/tatra-labs/Travel-Adivisor-Keyveve) | [🐛 Report Bug](https://github.com/tatra-labs/Travel-Adivisor-Keyveve/issues) | [💡 Request Feature](https://github.com/tatra-labs/Travel-Adivisor-Keyveve/issues)
 
 </div>
