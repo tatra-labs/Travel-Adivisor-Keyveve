@@ -1,0 +1,18 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+sqlalchemy==2.0.43
+alembic==1.16.5
+psycopg2-binary==2.9.10
+pgvector==0.4.1
+pydantic-settings==2.11.0
+python-jose[cryptography]==3.5.0
+passlib[argon2]==1.7.4
+python-multipart==0.0.20
+redis==6.4.0
+slowapi==0.1.9
+langgraph==0.6.7
+langchain-openai==0.3.33
+langchain-community==0.3.29
+openai==1.109.1
+# sentence-transformers will be installed after torch
+sentence-transformers==3.3.1
